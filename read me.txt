@@ -1,0 +1,10 @@
+
+1) I have kept JSON files read from the script for each month contiaining tweets obtained from Twitter and jupyter notebook containing code.
+
+2) Need to install few packages using pip command - like quandl, tweepy etc.
+
+3) Run each cell in python notebook to compile all functions. Comments are written for each specific function.
+
+4) Output is obtained in form a confusion matrix and visualized charts are plotted for training and test data. 
+
+5) Each month's CSV file will be created and TwitterTrain.csv and BitCoinTrain.csv contains training data while TwitterTest.csv and BitCoinTest.csv contains testing data and these all will be generated in same location where code is runnning.
